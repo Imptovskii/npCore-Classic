@@ -1,0 +1,6 @@
+name: newplacesCore
+version: ${project.version}
+main: dev.newplaces.npcore.Main
+prefix: L2X9CoreBeta
+authors: [newplaces]
+description: Core plugin for beta 1.7
