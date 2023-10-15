@@ -29,7 +29,6 @@ public class BlockPlace extends BlockListener {
             case WATER:
             case LAVA:
             case MOB_SPAWNER:
-            case FIRE:
             case LOCKED_CHEST:
                 return true;
         }
